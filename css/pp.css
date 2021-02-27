@@ -75,19 +75,22 @@
     
     footer {
         /* border: 1px solid red; */
-        margin: 50px 20px 20px 20px;
+        margin: 50px 0px 0px 0px;
         display: flex;
         flex-direction: row;
     }
     
     .footer-logo {
         /* border: 1px solid red; */
-        width: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 20%;
         text-align: center;
     }
     
     .footer-logo img {
-        width: 60%;
+        width: 50%;
         margin: auto;
     }
     
@@ -123,7 +126,7 @@
     
     .social-media a {
         width: 15%;
-        margin-top: 15px;
+        margin-top: 5px;
     }
     
     .social-media img {
@@ -185,7 +188,7 @@
         }
         footer {
             /* border: 1px solid yellow; */
-            margin: 30px 1px 1px 5px;
+            margin: 30px 0px 0px 0px;
             display: flex;
             flex-direction: column;
         }
@@ -203,7 +206,7 @@
         }
         .footer-logo {
             text-align: center;
-            width: 80%;
+            width: 60%;
             margin: auto;
         }
         .footer-logo img {
@@ -239,11 +242,11 @@
     
     @media (max-width: 767px) and (min-width: 426px) {
         nav a {
-            border: 1px solid yellow;
+            /* border: 1px solid yellow; */
             width: 20%;
         }
         nav a .logo {
-            border: 1px solid red;
+            /* border: 1px solid red; */
             margin-top: 10px;
             width: 65%;
         }
@@ -264,17 +267,20 @@
             line-height: 1.6;
         }
         footer {
-            margin: 30px 10px 10px 10px;
+            /* border: 1px solid turquoise; */
+            margin: 30px 0px 0px 0px;
             display: flex;
             flex-direction: row;
+            justify-content: center;
+            align-items: center;
         }
         .footer-logo {
             display: none;
         }
         footer .contact {
-            /* border: 1px solid turquoise; */
+            /* border: 1px solid yellowgreen; */
             margin-right: 6px;
-            width: 50%;
+            width: 52%;
         }
         .social-media {
             /* border: 1px solid palevioletred; */
