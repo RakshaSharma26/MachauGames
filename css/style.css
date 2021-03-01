@@ -44,15 +44,28 @@ nav div form input {
     height: 10vh;
     padding: 0 15px;
     font-weight: bold;
-    background: black;
-    border: 1.5px solid rgb(228, 123, 84);
-    color: rgb(228, 123, 84);
+    background: rgb(216, 94, 50);
+    border: 1.5px solid rgb(216, 94, 50);
+    color: white;
     text-transform: uppercase;
+    letter-spacing: 1.3px;
 }
 
 nav div form input:hover {
-    background: rgb(228, 123, 84);
+    background: rgb(212, 106, 67);
     color: white;
+}
+
+.fa-paper-plane {
+    border: none;
+    background-color: transparent;
+    font-family: FontAwesome, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.fa-paper-plane:hover {
+    border: none;
+    background-color: transparent;
+    color: #999;
 }
 
 nav h1 {
@@ -157,6 +170,7 @@ img {
 }
 
 .credit {
+    text-align: center;
     line-height: 1.92857143!important;
     width: 50%;
     display: flex;
