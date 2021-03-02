@@ -70,7 +70,7 @@ nav div form input:hover {
 
 nav h1 {
     /* border: 1px solid limegreen; */
-    margin: 0 5vh;
+    margin: 0 2vh;
 }
 
 .first {
@@ -90,7 +90,7 @@ nav h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 18px;
+    font-size: 16px;
     margin-left: 30px;
     padding: 0 20px;
     line-height: 1.62857143;
@@ -116,8 +116,9 @@ img {
 .card1-div,
 .card2-div,
 .card3-div {
+    width: 48%;
     padding: 10px;
-    font-size: 18px;
+    font-size: 16px;
     display: flex;
     flex-direction: column;
     margin: 0 20px;
@@ -128,7 +129,7 @@ img {
 .card3 img,
 .card img {
     /* border: 1px solid tomato; */
-    width: 50%;
+    width: 48%;
     height: 55vh;
     margin: 10px;
 }
