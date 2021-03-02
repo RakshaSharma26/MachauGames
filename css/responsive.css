@@ -30,7 +30,7 @@
     .first div {
         width: 90%;
         height: 100vh;
-        font-size: 16px;
+        font-size: 14px;
         margin: 0 5px;
         padding: 0 10px;
     }
@@ -59,7 +59,7 @@
     .card1-div,
     .card2-div,
     .card3-div {
-        font-size: 16px;
+        font-size: 14px;
         margin: 0 5px;
     }
     .card1 img,
@@ -167,12 +167,12 @@
         display: none;
     }
     .first div {
-        font-size: 14px;
+        font-size: 12px;
     }
     .card1-div,
     .card2-div,
     .card3-div {
-        font-size: 14px;
+        font-size: 12px;
     }
     nav a {
         width: 30%;
@@ -195,7 +195,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 18px;
+        font-size: 16px;
         margin-left: 30px;
         padding: 0 20px;
         line-height: 1.62857143;
