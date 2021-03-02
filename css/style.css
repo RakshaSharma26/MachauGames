@@ -13,7 +13,7 @@ body {
 nav {
     background: black;
     height: 10vh;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -22,7 +22,7 @@ nav {
 
 nav a {
     width: 5%;
-    border: 1px solid yellowgreen;
+    /* border: 1px solid yellowgreen; */
 }
 
 nav div,
@@ -36,7 +36,7 @@ nav a {
 }
 
 nav a .logo {
-    border: 1px solid thistle;
+    /* border: 1px solid thistle; */
     width: 100%;
 }
 
