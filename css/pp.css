@@ -204,6 +204,9 @@ footer a {
     }
     .policy {
         font-size: 14px;
+        width: 93%;
+        padding: 5px;
+        line-height: 1.5;
     }
     .policy-logo img {
         margin-top: 15px;
@@ -212,11 +215,6 @@ footer a {
     .policy-logo h2 {
         margin-top: -5px;
         margin-bottom: -5px;
-    }
-    .policy {
-        width: 93%;
-        padding: 5px;
-        line-height: 1.6;
     }
     footer {
         /* border: 1px solid yellow; */
@@ -252,7 +250,7 @@ footer {
     .footer-logo img {
         width: 40%;
         /* border: 1px solid yellow; */
-        margin: 1px auto;
+        margin: auto;
         /* text-align: center; */
     }
     .social-media {
@@ -276,6 +274,7 @@ footer {
         text-align: center;
         width: 50%;
         margin: 1px;
+        margin-bottom: 10px;
     }
     .social-media a:hover img {
         transform: translateY(-6px);

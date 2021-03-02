@@ -127,11 +127,12 @@
         text-align: center;
     }
     .footer-logo img {
-        width: 40%;
+        width: 30%;
         /* border: 1px solid yellow; */
-        margin: 10px auto;
+        margin: 3px auto;
         /* text-align: center; */
-        margin-bottom: 5px;
+        /* margin-bottom: 5px; */
+        margin-bottom: 0px;
     }
     .social-media {
         width: 90%;
@@ -150,7 +151,7 @@
     .social-media img {
         text-align: center;
         width: 50%;
-        margin: 3px;
+        margin: 3px 0 5px 0;
     }
     .social-media a:hover img {
         transform: translateY(-6px);
