@@ -34,6 +34,16 @@
         margin: 0 5px;
         padding: 0 10px;
     }
+    .first {
+        background-image: url("../images/IMG-20210228-WA0033.jpg");
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+        color: white;
+    }
     .logo {
         /* margin-top: 10px;
         padding-top: 10px;
