@@ -226,7 +226,8 @@ img {
     text-align: center;
 }
 
-.contact a {
+.contact a,
+.special-thanks a {
     color: yellowgreen;
     text-decoration: none;
 }
