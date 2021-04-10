@@ -95,10 +95,11 @@ nav a .logo {
     color: white;
 }
 
-nav h1 {
+nav span {
     /* border: 1px solid limegreen; */
     margin: 0 3px;
     font-size: 1rem;
+    font-weight: bold;
 }
 
 
@@ -218,7 +219,7 @@ footer a {
 /****************************************RESPONSIVE****************************************/
 
 @media (max-width: 320px) {
-    nav h1 {
+    nav span {
         display: none;
     }
 }
@@ -310,7 +311,7 @@ footer a {
 }
 
 @media (max-width: 767px) and (min-width: 426px) {
-    nav h1 {
+    nav span {
         margin: 0 10px;
     }
     nav a .logo {

@@ -185,7 +185,7 @@
 }
 
 @media (max-width: 320px) {
-    nav h1 {
+    nav span {
         display: none;
     }
     .first div {
@@ -211,7 +211,7 @@
     .screenshots {
         margin: 0 14px 10px 14px!important;
     }
-    nav h1 {
+    nav span {
         margin: 0 10px;
     }
     .slider {

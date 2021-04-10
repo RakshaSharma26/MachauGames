@@ -108,10 +108,11 @@ nav a .logo {
     color: white;
 }
 
-nav h1 {
+nav span {
     font-size: 1rem;
     /* border: 1px solid limegreen; */
     margin: 0 3px;
+    font-weight: bold;
 }
 
 
