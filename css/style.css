@@ -314,7 +314,9 @@ nav span {
     margin: 0 10px 0 0;
     box-shadow: 0 4px 8px 0 #999;
 }
-
+.credit-section h1 {
+    color: white!important;
+}
 
 /****************************************CREDITS END****************************************/
 
